@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1601162790 source:d:\documentos\sistemasufjf\c++\trabalhopraticoordenacao\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<chrono>
+	<cstdlib>
+
